@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Matias/Documents/GitHub/circular-array-matiasmjcm/circulararray.h
+iostream
+-
+stack
+-
+stdexcept
+-
+
+C:/Users/Matias/Documents/GitHub/circular-array-matiasmjcm/main.cpp
+iostream
+-
+circulararray.h
+C:/Users/Matias/Documents/GitHub/circular-array-matiasmjcm/circulararray.h
+tester.h
+C:/Users/Matias/Documents/GitHub/circular-array-matiasmjcm/tester.h
+
+C:/Users/Matias/Documents/GitHub/circular-array-matiasmjcm/tester.h
+iostream
+-
+
